@@ -4,6 +4,7 @@ excerpt: >-
   İstanbul geneli kaporasız ve elden ödemeli VIP model ilanları. En popüler
   İstanbul eskort bayan vitrini ve bağımsız partner rehberi.
 hidden: false
+icon: 💋
 metadata:
   title: İstanbul Escort | %100 Gerçek ve Kaporasız İstanbul Eskort Bayan Hizmeti
   description: >-
