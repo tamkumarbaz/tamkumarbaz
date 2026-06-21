@@ -10,9 +10,17 @@ metadata:
   description: >-
     İstanbul geneli kaporasız ve elden ödemeli VIP model ilanları. En popüler
     İstanbul eskort bayan vitrini ve bağımsız partner rehberi.
+  image: >-
+    https://files.readme.io/e0c8858928be0eba7d320cf0e668312ee03125e7925f731a2f4837930a871ade-photo_2_2026-05-04_17-59-01.jpg
   keywords:
     - istanbul escort
     - istanbul eskort
+next:
+  description: İstanbul Escort resmi reklam ajansı.
+  pages:
+    - title: İstanbul Escort
+      type: link
+      url: https://dorukcanay.digital/
 ---
 
 # İstanbul Escort | %100 Gerçek ve Kaporasız İstanbul Eskort Bayan Hizmeti
