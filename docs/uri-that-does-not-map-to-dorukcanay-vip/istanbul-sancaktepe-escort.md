@@ -27,18 +27,12 @@ privacy:
 > [!WARNING]
 > **Güvenlik Uyarısı:** DorukcanAY platformundaki tüm bağımsız modeller %100 gerçek görsellere sahiptir ve kapora talep etmez. Ön ödeme isteyen dolandırıcılara itibar etmeyiniz.
 
-<div style="background: linear-gradient(90deg, #ff0055 0%, #7000ff 100%); padding: 20px; border-radius: 12px; text-align: center; margin: 20px 0; border: 2px solid #fff; box-shadow: 0 0 20px rgba(255, 0, 85, 0.6); animation: pulseAlert 1.5s infinite alternate;">
-  <h3 style="color: #fff; margin: 0 0 10px 0; font-size: 1.4rem; font-weight: bold; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">📢 BAĞIMSIZ MODEL İLANINIZI YAYINLAYIN</h3>
-  <p style="color: #ffe0eb; margin: 0 0 15px 0; font-size: 0.95rem;">İstanbul genelinde günlük yüzbinlerce ziyaretçiye ulaşan vitrinimizde yerinizi alın. Kaporasız ve elden ödemeli VIP profilinizle kazanmaya başlayın.</p>
-  <a href="https://dorukcanay.digital" target="_blank" rel="noopener" style="display: inline-block; background: #fff; color: #ff0055; padding: 12px 30px; border-radius: 30px; font-weight: bold; text-decoration: none; font-size: 1rem; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.2s;">✨ İLAN VERMEK İÇİN TIKLAYINIZ</a>
-</div>
+> [!IMPORTANT]
+> ### 👑 BAĞIMSIZ MODEL İLANINIZI YAYINLAYIN
+> İstanbul genelinde günlük yüzbinlerce ziyaretçiye ulaşan vitrinimizde yerinizi alın. Kaporasız ve elden ödemeli VIP profilinizle kazanmaya başlayın.
+> **[✨ İLAN VERMEK İÇİN TIKLAYINIZ (Elden Ödemeli)](https://dorukcanay.digital)**
 
-<style>
-@keyframes pulseAlert {
-  0% { box-shadow: 0 0 10px rgba(255, 0, 85, 0.4); transform: scale(0.99); }
-  100% { box-shadow: 0 0 25px rgba(255, 0, 85, 0.9); transform: scale(1.01); }
-}
-</style>
+
 
 > **📍 Coğrafi ve Yerel Rehber:** İstanbul'un önemli lokasyonlarından biri olan Sancaktepe, zengin ulaşım seçenekleri ve hareketli günlük yaşantısıyla bilinir. Toplu taşıma ağlarına yakınlığı sayesinde kentin her bölgesine hızlı ulaşım imkanı sunarken, çevresindeki modern donatılar ve sosyal alanlarla kaliteli bir yaşam dinamiği oluşturur. Canlılığı ve konforlu yapısıyla bölge genelinde dikkat çeken bir yapıya sahiptir.
 
