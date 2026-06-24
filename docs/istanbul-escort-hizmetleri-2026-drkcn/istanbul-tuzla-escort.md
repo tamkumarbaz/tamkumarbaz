@@ -3,8 +3,6 @@ title: İstanbul Tuzla Escort Bayan | 💎 Tuzla Eskort Kraliçe Randevu
 excerpt: >-
   Tuzla bölgesinde kaporasız ve elden ödemeli kraliçe DorukcanAY VIP model
   ilanları. En popüler Tuzla eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Tuzla escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 322
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

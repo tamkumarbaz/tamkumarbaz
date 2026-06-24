@@ -3,8 +3,6 @@ title: İstanbul Bakırköy Escort Bayan | 💎 Bakırköy Eskort Kraliçe Rande
 excerpt: >-
   Bakırköy bölgesinde kaporasız ve elden ödemeli muhteşem DorukcanAY VIP model
   ilanları. En popüler Bakırköy eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Bakırköy escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 366
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

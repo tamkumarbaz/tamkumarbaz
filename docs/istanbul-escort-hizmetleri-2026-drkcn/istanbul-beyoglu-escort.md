@@ -3,8 +3,6 @@ title: İstanbul Beyoğlu Escort Bayan | 💋 Beyoğlu Eskort Kraliçe Randevu
 excerpt: >-
   Beyoğlu bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model
   ilanları. En popüler Beyoğlu eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Beyoğlu escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 355
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

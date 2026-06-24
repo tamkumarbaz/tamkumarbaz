@@ -21,7 +21,9 @@ next:
     - title: İstanbul Escort
       type: link
       url: https://dorukcanay.digital/
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

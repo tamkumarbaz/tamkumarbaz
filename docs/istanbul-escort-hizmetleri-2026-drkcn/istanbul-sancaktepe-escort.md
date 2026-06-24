@@ -3,8 +3,6 @@ title: İstanbul Sancaktepe Escort Bayan | ❤️ Sancaktepe Eskort Kraliçe Ran
 excerpt: >-
   Sancaktepe bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
   ilanları. En popüler Sancaktepe eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Sancaktepe escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 225
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

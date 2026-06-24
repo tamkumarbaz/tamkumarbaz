@@ -3,8 +3,6 @@ title: İstanbul Beykoz Escort Bayan | ✨ Beykoz Eskort Kraliçe Randevu
 excerpt: >-
   Beykoz bölgesinde kaporasız ve elden ödemeli lüks DorukcanAY VIP model
   ilanları. En popüler Beykoz eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Beykoz escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 333
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

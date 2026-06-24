@@ -3,8 +3,6 @@ title: İstanbul Esenler Escort Bayan | 😈 Esenler Eskort Kraliçe Randevu
 excerpt: >-
   Esenler bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
   ilanları. En popüler Esenler eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Esenler escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 159
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

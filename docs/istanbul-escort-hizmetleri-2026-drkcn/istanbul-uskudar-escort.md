@@ -3,8 +3,6 @@ title: İstanbul Üsküdar Escort Bayan | 👑 Üsküdar Eskort Kraliçe Randevu
 excerpt: >-
   Üsküdar bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model
   ilanları. En popüler Üsküdar eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Üsküdar escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 103
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

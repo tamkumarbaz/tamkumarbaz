@@ -3,8 +3,6 @@ title: İstanbul Adalar Escort Bayan | 🔥 Adalar Eskort Kraliçe Randevu
 excerpt: >-
   Adalar bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model
   ilanları. En popüler Adalar eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Adalar escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 400
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

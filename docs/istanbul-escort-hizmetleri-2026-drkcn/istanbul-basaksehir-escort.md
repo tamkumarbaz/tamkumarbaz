@@ -3,8 +3,6 @@ title: İstanbul Başakşehir Escort Bayan | ❤️ Başakşehir Eskort Kraliçe
 excerpt: >-
   Başakşehir bölgesinde kaporasız ve elden ödemeli kraliçe DorukcanAY VIP model
   ilanları. En popüler Başakşehir eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Başakşehir escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 205
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

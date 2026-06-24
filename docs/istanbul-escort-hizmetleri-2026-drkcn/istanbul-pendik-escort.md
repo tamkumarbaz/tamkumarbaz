@@ -3,8 +3,6 @@ title: İstanbul Pendik Escort Bayan | 🔥 Pendik Eskort Kraliçe Randevu
 excerpt: >-
   Pendik bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model
   ilanları. En popüler Pendik eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Pendik escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 59
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

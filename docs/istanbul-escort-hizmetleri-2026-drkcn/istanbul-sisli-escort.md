@@ -3,8 +3,6 @@ title: İstanbul Şişli Escort Bayan | ✨ Şişli Eskort Kraliçe Randevu
 excerpt: >-
   Şişli bölgesinde kaporasız ve elden ödemeli gizli DorukcanAY VIP model
   ilanları. En popüler Şişli eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Şişli escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 33
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

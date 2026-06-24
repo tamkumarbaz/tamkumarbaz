@@ -3,8 +3,6 @@ title: İstanbul Esenyurt Escort Bayan | 😈 Esenyurt Eskort Kraliçe Randevu
 excerpt: >-
   Esenyurt bölgesinde kaporasız ve elden ödemeli gizli DorukcanAY VIP model
   ilanları. En popüler Esenyurt eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Esenyurt escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 0
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

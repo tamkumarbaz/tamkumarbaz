@@ -3,8 +3,6 @@ title: İstanbul Şile Escort Bayan | 👑 Şile Eskort Kraliçe Randevu
 excerpt: >-
   Şile bölgesinde kaporasız ve elden ödemeli lüks DorukcanAY VIP model ilanları.
   En popüler Şile eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Şile escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları. En
@@ -18,7 +16,9 @@ metadata:
 position: 393
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

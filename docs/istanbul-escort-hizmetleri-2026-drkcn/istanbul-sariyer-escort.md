@@ -3,8 +3,6 @@ title: İstanbul Sarıyer Escort Bayan | ✨ Sarıyer Eskort Kraliçe Randevu
 excerpt: >-
   Sarıyer bölgesinde kaporasız ve elden ödemeli muhteşem DorukcanAY VIP model
   ilanları. En popüler Sarıyer eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Sarıyer escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 268
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

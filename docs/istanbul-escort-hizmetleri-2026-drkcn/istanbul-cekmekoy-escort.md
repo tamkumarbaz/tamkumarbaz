@@ -3,8 +3,6 @@ title: İstanbul Çekmeköy Escort Bayan | 🔥 Çekmeköy Eskort Kraliçe Rande
 excerpt: >-
   Çekmeköy bölgesinde kaporasız ve elden ödemeli muhteşem DorukcanAY VIP model
   ilanları. En popüler Çekmeköy eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Çekmeköy escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 311
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

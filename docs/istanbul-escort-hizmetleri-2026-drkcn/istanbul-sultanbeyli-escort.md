@@ -3,8 +3,6 @@ title: İstanbul Sultanbeyli Escort Bayan | ✨ Sultanbeyli Eskort Kraliçe Rand
 excerpt: >-
   Sultanbeyli bölgesinde kaporasız ve elden ödemeli muhteşem DorukcanAY VIP
   model ilanları. En popüler Sultanbeyli eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Sultanbeyli escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 257
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

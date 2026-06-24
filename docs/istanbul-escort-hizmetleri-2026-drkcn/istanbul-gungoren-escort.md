@@ -3,8 +3,6 @@ title: İstanbul Güngören Escort Bayan | 🌹 Güngören Eskort Kraliçe Rande
 excerpt: >-
   Güngören bölgesinde kaporasız ve elden ödemeli gizli DorukcanAY VIP model
   ilanları. En popüler Güngören eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Güngören escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 290
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

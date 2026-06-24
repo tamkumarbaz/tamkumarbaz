@@ -3,8 +3,6 @@ title: İstanbul Eyüpsultan Escort Bayan | ❤️ Eyüpsultan Eskort Kraliçe R
 excerpt: >-
   Eyüpsultan bölgesinde kaporasız ve elden ödemeli ateşli DorukcanAY VIP model
   ilanları. En popüler Eyüpsultan eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Eyüpsultan escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 236
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

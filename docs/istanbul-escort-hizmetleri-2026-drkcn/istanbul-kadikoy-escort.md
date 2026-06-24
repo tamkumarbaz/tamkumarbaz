@@ -3,8 +3,6 @@ title: İstanbul Kadıköy Escort Bayan | ✨ Kadıköy Eskort Kraliçe Randevu
 excerpt: >-
   Kadıköy bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
   ilanları. En popüler Kadıköy eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Kadıköy escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 147
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

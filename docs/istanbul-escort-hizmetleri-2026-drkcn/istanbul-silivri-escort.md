@@ -3,8 +3,6 @@ title: İstanbul Silivri Escort Bayan | ✨ Silivri Eskort Kraliçe Randevu
 excerpt: >-
   Silivri bölgesinde kaporasız ve elden ödemeli VIP DorukcanAY VIP model
   ilanları. En popüler Silivri eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Silivri escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 377
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

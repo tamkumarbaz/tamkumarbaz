@@ -3,8 +3,6 @@ title: İstanbul Küçükçekmece Escort Bayan | ❤️ Küçükçekmece Eskort 
 excerpt: >-
   Küçükçekmece bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
   ilanları. En popüler Küçükçekmece eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Küçükçekmece escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 11
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

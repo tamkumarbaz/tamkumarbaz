@@ -3,8 +3,6 @@ title: İstanbul Zeytinburnu Escort Bayan | 🔥 Zeytinburnu Eskort Kraliçe Ran
 excerpt: >-
   Zeytinburnu bölgesinde kaporasız ve elden ödemeli gizli DorukcanAY VIP model
   ilanları. En popüler Zeytinburnu eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Zeytinburnu escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 279
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

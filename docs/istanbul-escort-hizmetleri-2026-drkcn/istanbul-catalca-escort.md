@@ -3,8 +3,6 @@ title: İstanbul Çatalca Escort Bayan | ❤️ Çatalca Eskort Kraliçe Randevu
 excerpt: >-
   Çatalca bölgesinde kaporasız ve elden ödemeli %100 gerçek DorukcanAY VIP model
   ilanları. En popüler Çatalca eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Çatalca escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 386
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

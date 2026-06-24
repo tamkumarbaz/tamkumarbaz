@@ -3,8 +3,6 @@ title: İstanbul Beylikdüzü Escort Bayan | 👑 Beylikdüzü Eskort Kraliçe R
 excerpt: >-
   Beylikdüzü bölgesinde kaporasız ve elden ödemeli gizli DorukcanAY VIP model
   ilanları. En popüler Beylikdüzü eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Beylikdüzü escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 247
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

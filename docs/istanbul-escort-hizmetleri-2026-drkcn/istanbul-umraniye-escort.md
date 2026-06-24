@@ -3,8 +3,6 @@ title: İstanbul Ümraniye Escort Bayan | ❤️ Ümraniye Eskort Kraliçe Rande
 excerpt: >-
   Ümraniye bölgesinde kaporasız ve elden ödemeli lüks DorukcanAY VIP model
   ilanları. En popüler Ümraniye eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Ümraniye escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -18,7 +16,9 @@ metadata:
 position: 70
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

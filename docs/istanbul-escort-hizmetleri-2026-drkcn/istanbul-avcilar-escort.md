@@ -3,8 +3,6 @@ title: İstanbul Avcılar Escort Bayan | 🔥 Avcılar Eskort Kraliçe Randevu
 excerpt: >-
   Avcılar bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP model
   ilanları. En popüler Avcılar eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Avcılar escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 194
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

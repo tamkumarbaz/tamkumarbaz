@@ -3,8 +3,6 @@ title: İstanbul Gaziosmanpaşa Escort Bayan | 🔥 Gaziosmanpaşa Eskort Krali�
 excerpt: >-
   Gaziosmanpaşa bölgesinde kaporasız ve elden ödemeli sultan DorukcanAY VIP
   model ilanları. En popüler Gaziosmanpaşa eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Gaziosmanpaşa escort arayanlar için kaporasız ve elden ödemeli VIP model
@@ -20,7 +18,9 @@ metadata:
 position: 125
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

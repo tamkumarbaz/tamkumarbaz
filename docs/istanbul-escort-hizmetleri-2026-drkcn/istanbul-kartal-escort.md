@@ -3,8 +3,6 @@ title: İstanbul Kartal Escort Bayan | 😈 Kartal Eskort Kraliçe Randevu
 excerpt: >-
   Kartal bölgesinde kaporasız ve elden ödemeli kraliçe DorukcanAY VIP model
   ilanları. En popüler Kartal eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Kartal escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 136
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 

@@ -3,8 +3,6 @@ title: İstanbul Maltepe Escort Bayan | ❤️ Maltepe Eskort Kraliçe Randevu
 excerpt: >-
   Maltepe bölgesinde kaporasız ve elden ödemeli VIP DorukcanAY VIP model
   ilanları. En popüler Maltepe eskort bayan vitrini.
-category:
-  uri: uri-that-does-not-map-to-istanbul-escorts
 content:
   excerpt: >-
     Maltepe escort arayanlar için kaporasız ve elden ödemeli VIP model ilanları.
@@ -18,7 +16,9 @@ metadata:
 position: 114
 privacy:
   view: public
----
+
+category:
+  uri: istanbul-escort-hizmetleri-2026-drkcn---
 
 
 
