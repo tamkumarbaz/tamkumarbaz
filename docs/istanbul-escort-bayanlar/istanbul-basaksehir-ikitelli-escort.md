@@ -13,7 +13,6 @@ metadata:
   description: >-
     Başakşehir İkitelli escort arayanlar için kaporasız ve elden ödemeli VIP
     model ilanları. En popüler Başakşehir İkitelli eskort bayan vitrini rehberi.
-
 category:
   uri: istanbul-escort-bayanlar
 ---

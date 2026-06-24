@@ -9,7 +9,6 @@ metadata:
   description: >-
     Bahçelievler Zafer bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Bahçelievler Zafer eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

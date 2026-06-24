@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beşiktaş Etiler bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Beşiktaş Etiler eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beşiktaş Dikilitaş bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Beşiktaş Dikilitaş eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

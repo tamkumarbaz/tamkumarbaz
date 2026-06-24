@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kağıthane Seyrantepe bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kağıthane Seyrantepe eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

@@ -9,7 +9,6 @@ metadata:
   description: >-
     Maltepe Yalı bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Maltepe Yalı eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

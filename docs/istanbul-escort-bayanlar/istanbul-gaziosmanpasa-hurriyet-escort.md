@@ -23,7 +23,6 @@ metadata:
 position: 134
 privacy:
   view: public
-
 category:
   uri: istanbul-escort-bayanlar
 ---

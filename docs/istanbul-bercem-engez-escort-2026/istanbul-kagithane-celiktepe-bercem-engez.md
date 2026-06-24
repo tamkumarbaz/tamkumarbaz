@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kağıthane Çeliktepe bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kağıthane Çeliktepe eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

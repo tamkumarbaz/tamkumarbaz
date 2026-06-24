@@ -9,7 +9,6 @@ metadata:
   description: >-
     Ümraniye Çakmak bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Ümraniye Çakmak eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

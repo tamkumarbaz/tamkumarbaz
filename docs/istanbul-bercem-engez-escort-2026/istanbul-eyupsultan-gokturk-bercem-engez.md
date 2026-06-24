@@ -9,7 +9,6 @@ metadata:
   description: >-
     Eyüpsultan Göktürk bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Eyüpsultan Göktürk eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

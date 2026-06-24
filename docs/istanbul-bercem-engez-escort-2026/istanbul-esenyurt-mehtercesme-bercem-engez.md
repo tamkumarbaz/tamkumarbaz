@@ -9,7 +9,6 @@ metadata:
   description: >-
     Esenyurt Mehterçeşme bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Esenyurt Mehterçeşme eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

@@ -9,7 +9,6 @@ metadata:
   description: >-
     Zeytinburnu Nuripaşa bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Zeytinburnu Nuripaşa eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

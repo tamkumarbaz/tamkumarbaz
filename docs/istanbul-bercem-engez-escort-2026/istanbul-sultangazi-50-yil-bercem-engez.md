@@ -9,7 +9,6 @@ metadata:
   description: >-
     Sultangazi 50. Yıl bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Sultangazi 50. Yıl eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

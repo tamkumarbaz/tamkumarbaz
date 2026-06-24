@@ -9,7 +9,6 @@ metadata:
   description: >-
     Çekmeköy Hamidiye bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Çekmeköy Hamidiye eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

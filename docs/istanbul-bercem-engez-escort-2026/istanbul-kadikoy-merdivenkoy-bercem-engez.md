@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kadıköy Merdivenköy bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kadıköy Merdivenköy eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

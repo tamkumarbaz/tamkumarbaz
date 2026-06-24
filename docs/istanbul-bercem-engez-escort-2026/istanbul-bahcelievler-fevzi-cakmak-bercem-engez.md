@@ -10,7 +10,6 @@ metadata:
     Bahçelievler Fevzi Çakmak bölgesinde kaporasız ve elden ödemeli Berçem Engez
     VIP model ilanları. En popüler Bahçelievler Fevzi Çakmak eskort bayan
     vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

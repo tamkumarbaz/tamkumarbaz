@@ -10,7 +10,6 @@ metadata:
     Sultangazi Sultançiftliği bölgesinde kaporasız ve elden ödemeli Berçem Engez
     VIP model ilanları. En popüler Sultangazi Sultançiftliği eskort bayan
     vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

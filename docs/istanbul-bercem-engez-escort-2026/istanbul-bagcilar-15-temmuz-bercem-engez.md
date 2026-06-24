@@ -9,7 +9,6 @@ metadata:
   description: >-
     Bağcılar 15 Temmuz bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Bağcılar 15 Temmuz eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

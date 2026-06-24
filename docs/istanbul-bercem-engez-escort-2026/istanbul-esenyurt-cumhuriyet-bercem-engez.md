@@ -9,7 +9,6 @@ metadata:
   description: >-
     Esenyurt Cumhuriyet bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Esenyurt Cumhuriyet eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

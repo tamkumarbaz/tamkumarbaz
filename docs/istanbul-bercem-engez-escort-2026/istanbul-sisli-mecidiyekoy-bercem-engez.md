@@ -9,7 +9,6 @@ metadata:
   description: >-
     Şişli Mecidiyeköy bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Şişli Mecidiyeköy eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

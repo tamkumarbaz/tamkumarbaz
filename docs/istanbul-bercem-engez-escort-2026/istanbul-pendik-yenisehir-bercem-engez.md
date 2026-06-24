@@ -9,7 +9,6 @@ metadata:
   description: >-
     Pendik Yenişehir bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Pendik Yenişehir eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

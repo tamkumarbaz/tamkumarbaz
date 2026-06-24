@@ -9,7 +9,6 @@ metadata:
   description: >-
     Eyüpsultan Silahtarağa bölgesinde kaporasız ve elden ödemeli Berçem Engez
     VIP model ilanları. En popüler Eyüpsultan Silahtarağa eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

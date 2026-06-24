@@ -9,7 +9,6 @@ metadata:
   description: >-
     Sultangazi Esentepe bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Sultangazi Esentepe eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

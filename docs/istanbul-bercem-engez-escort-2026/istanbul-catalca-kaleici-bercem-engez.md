@@ -9,7 +9,6 @@ metadata:
   description: >-
     Çatalca Kaleiçi bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Çatalca Kaleiçi eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

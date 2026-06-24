@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kartal Petrol İş bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kartal Petrol İş eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

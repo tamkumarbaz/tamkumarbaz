@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beşiktaş Ulus bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Beşiktaş Ulus eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

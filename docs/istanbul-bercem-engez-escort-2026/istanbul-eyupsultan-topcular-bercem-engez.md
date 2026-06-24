@@ -9,7 +9,6 @@ metadata:
   description: >-
     Eyüpsultan Topçular bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Eyüpsultan Topçular eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

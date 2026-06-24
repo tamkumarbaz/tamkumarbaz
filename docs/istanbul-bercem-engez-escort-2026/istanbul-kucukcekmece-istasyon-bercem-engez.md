@@ -9,7 +9,6 @@ metadata:
   description: >-
     Küçükçekmece İstasyon bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Küçükçekmece İstasyon eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

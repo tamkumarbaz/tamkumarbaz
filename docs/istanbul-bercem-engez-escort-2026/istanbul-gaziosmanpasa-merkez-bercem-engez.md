@@ -9,7 +9,6 @@ metadata:
   description: >-
     Gaziosmanpaşa Merkez bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Gaziosmanpaşa Merkez eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

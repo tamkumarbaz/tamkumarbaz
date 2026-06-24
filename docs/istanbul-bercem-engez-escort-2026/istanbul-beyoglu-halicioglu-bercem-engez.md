@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beyoğlu Halıcıoğlu bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Beyoğlu Halıcıoğlu eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

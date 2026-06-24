@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beykoz Kavacık bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Beykoz Kavacık eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

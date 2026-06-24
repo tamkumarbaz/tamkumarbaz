@@ -9,7 +9,6 @@ metadata:
   description: >-
     Esenler Oruçreis bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Esenler Oruçreis eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

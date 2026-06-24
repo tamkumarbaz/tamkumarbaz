@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beyoğlu Sütlüce bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Beyoğlu Sütlüce eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

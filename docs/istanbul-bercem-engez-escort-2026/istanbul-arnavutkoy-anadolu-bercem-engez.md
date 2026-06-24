@@ -9,7 +9,6 @@ metadata:
   description: >-
     Arnavutköy Anadolu bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Arnavutköy Anadolu eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

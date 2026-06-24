@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kağıthane Talatpaşa bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kağıthane Talatpaşa eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

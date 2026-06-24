@@ -9,7 +9,6 @@ metadata:
   description: >-
     Çekmeköy Ömerli bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Çekmeköy Ömerli eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

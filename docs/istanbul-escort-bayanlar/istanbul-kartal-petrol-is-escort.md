@@ -13,7 +13,6 @@ metadata:
   description: >-
     Kartal Petrol İş escort arayanlar için kaporasız ve elden ödemeli VIP model
     ilanları. En popüler Kartal Petrol İş eskort bayan vitrini rehberi.
-
 category:
   uri: istanbul-escort-bayanlar
 ---

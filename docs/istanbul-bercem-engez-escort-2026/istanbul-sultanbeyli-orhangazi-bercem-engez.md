@@ -9,7 +9,6 @@ metadata:
   description: >-
     Sultanbeyli Orhangazi bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Sultanbeyli Orhangazi eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

@@ -9,7 +9,6 @@ metadata:
   description: >-
     Başakşehir İkitelli bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Başakşehir İkitelli eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

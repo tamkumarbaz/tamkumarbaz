@@ -9,7 +9,6 @@ metadata:
   description: >-
     Maltepe Bağlarbaşı bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Maltepe Bağlarbaşı eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

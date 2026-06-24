@@ -9,7 +9,6 @@ metadata:
   description: >-
     Bahçelievler Şirinevler bölgesinde kaporasız ve elden ödemeli Berçem Engez
     VIP model ilanları. En popüler Bahçelievler Şirinevler eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

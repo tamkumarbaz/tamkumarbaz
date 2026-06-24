@@ -9,7 +9,6 @@ metadata:
   description: >-
     Sancaktepe Eyüp Sultan bölgesinde kaporasız ve elden ödemeli Berçem Engez
     VIP model ilanları. En popüler Sancaktepe Eyüp Sultan eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

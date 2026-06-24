@@ -9,7 +9,6 @@ metadata:
   description: >-
     Esenler Nine Hatun bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Esenler Nine Hatun eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

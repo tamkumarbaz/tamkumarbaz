@@ -9,7 +9,6 @@ metadata:
   description: >-
     Bağcılar Kirazlı bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Bağcılar Kirazlı eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

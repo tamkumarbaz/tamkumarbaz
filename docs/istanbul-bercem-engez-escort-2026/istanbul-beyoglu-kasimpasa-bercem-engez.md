@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beyoğlu Kasımpaşa bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Beyoğlu Kasımpaşa eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

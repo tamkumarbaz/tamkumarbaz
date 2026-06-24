@@ -9,7 +9,6 @@ metadata:
   description: >-
     Güngören Akıncılar bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Güngören Akıncılar eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

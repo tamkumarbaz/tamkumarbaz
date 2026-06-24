@@ -9,7 +9,6 @@ metadata:
   description: >-
     Bağcılar Güneşli bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Bağcılar Güneşli eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

@@ -9,7 +9,6 @@ metadata:
   description: >-
     Fatih Karagümrük bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Fatih Karagümrük eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

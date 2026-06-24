@@ -9,7 +9,6 @@ metadata:
   description: >-
     Esenler Turgutreis bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Esenler Turgutreis eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

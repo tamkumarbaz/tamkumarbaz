@@ -9,7 +9,6 @@ metadata:
   description: >-
     İstanbul geneli kaporasız ve elden ödemeli Berçem Engez VIP model ilanları.
     En popüler İstanbul eskort bayan vitrini ve bağımsız partner rehberi.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

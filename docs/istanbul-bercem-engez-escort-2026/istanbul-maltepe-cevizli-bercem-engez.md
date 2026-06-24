@@ -9,7 +9,6 @@ metadata:
   description: >-
     Maltepe Cevizli bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Maltepe Cevizli eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

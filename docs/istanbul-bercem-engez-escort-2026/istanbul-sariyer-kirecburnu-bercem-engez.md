@@ -9,7 +9,6 @@ metadata:
   description: >-
     Sarıyer Kireçburnu bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Sarıyer Kireçburnu eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

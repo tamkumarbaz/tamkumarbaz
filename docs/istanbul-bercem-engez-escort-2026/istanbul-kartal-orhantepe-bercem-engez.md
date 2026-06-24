@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kartal Orhantepe bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kartal Orhantepe eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

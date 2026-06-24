@@ -9,7 +9,6 @@ metadata:
   description: >-
     Bağcılar Yıldıztepe bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Bağcılar Yıldıztepe eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

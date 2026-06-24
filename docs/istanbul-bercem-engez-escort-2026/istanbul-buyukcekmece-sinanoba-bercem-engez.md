@@ -9,7 +9,6 @@ metadata:
   description: >-
     Büyükçekmece Sinanoba bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Büyükçekmece Sinanoba eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

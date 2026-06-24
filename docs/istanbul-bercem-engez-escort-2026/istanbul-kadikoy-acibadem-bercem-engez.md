@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kadıköy Acıbadem bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Kadıköy Acıbadem eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

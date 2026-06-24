@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beylikdüzü Dereağzı bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Beylikdüzü Dereağzı eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

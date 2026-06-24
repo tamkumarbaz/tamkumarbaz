@@ -9,7 +9,6 @@ metadata:
   description: >-
     Esenyurt Saadetdere bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Esenyurt Saadetdere eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

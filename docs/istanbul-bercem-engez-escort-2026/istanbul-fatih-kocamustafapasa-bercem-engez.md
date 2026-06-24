@@ -9,7 +9,6 @@ metadata:
   description: >-
     Fatih Kocamustafapaşa bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Fatih Kocamustafapaşa eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

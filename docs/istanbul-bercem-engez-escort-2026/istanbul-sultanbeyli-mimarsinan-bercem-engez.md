@@ -9,7 +9,6 @@ metadata:
   description: >-
     Sultanbeyli Mimarsinan bölgesinde kaporasız ve elden ödemeli Berçem Engez
     VIP model ilanları. En popüler Sultanbeyli Mimarsinan eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

@@ -9,7 +9,6 @@ metadata:
   description: >-
     Ataşehir Barbaros bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Ataşehir Barbaros eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

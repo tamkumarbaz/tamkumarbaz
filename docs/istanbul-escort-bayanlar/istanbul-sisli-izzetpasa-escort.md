@@ -13,7 +13,6 @@ metadata:
   description: >-
     Şişli İzzetpaşa escort arayanlar için kaporasız ve elden ödemeli VIP model
     ilanları. En popüler Şişli İzzetpaşa eskort bayan vitrini rehberi.
-
 category:
   uri: istanbul-escort-bayanlar
 ---

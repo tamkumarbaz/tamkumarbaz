@@ -9,7 +9,6 @@ metadata:
   description: >-
     Beylikdüzü Yakuplu bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Beylikdüzü Yakuplu eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

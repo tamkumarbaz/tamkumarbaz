@@ -9,7 +9,6 @@ metadata:
   description: >-
     Kadıköy Suadiye bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP model
     ilanları. En popüler Kadıköy Suadiye eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

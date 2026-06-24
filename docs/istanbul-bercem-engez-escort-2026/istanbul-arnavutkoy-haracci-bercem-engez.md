@@ -9,7 +9,6 @@ metadata:
   description: >-
     Arnavutköy Haraççı bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Arnavutköy Haraççı eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---

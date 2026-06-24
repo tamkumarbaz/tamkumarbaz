@@ -9,7 +9,6 @@ metadata:
   description: >-
     Adalar Burgazada bölgesinde kaporasız ve elden ödemeli Berçem Engez VIP
     model ilanları. En popüler Adalar Burgazada eskort bayan vitrini.
-
 category:
   uri: istanbul-bercem-engez-escort-2026
 ---
