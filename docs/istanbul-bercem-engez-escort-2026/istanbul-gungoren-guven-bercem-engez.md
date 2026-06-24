@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Güngören Güven eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Güngören Güven Escort | Berçem Engez VIP İlanları
 

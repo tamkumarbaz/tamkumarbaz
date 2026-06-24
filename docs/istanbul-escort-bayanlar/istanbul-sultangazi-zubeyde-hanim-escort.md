@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultangazi Zübeyde Hanım Escort | İstanbul Sultangazi Zübeyde Hanım Eskort Bayan İlanları
 

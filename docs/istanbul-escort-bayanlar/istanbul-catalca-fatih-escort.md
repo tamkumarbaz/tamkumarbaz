@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çatalca Fatih Escort | İstanbul Çatalca Fatih Eskort Bayan İlanları
 

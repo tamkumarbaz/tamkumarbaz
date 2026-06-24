@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bağcılar Kemalpaşa Escort | İstanbul Bağcılar Kemalpaşa Eskort Bayan İlanları
 

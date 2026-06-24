@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Gaziosmanpaşa Fevzi Çakmak Escort | İstanbul Gaziosmanpaşa Fevzi Çakmak Eskort Bayan İlanları
 

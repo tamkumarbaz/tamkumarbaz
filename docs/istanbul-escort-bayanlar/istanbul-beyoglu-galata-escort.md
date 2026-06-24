@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beyoğlu Galata Escort | İstanbul Beyoğlu Galata Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beşiktaş Dikilitaş Escort | İstanbul Beşiktaş Dikilitaş Eskort Bayan İlanları
 

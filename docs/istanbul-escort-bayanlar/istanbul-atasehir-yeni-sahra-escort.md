@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ataşehir Yeni Sahra Escort | İstanbul Ataşehir Yeni Sahra Eskort Bayan İlanları
 

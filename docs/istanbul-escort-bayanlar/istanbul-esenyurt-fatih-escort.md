@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenyurt Fatih Escort | İstanbul Esenyurt Fatih Eskort Bayan İlanları
 

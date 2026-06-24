@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beşiktaş Etiler Escort | İstanbul Beşiktaş Etiler Eskort Bayan İlanları
 

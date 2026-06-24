@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Küçükçekmece Cennet eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Küçükçekmece Cennet Escort | Berçem Engez VIP İlanları
 

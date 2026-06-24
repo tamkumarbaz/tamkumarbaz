@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bağcılar 15 Temmuz Escort | İstanbul Bağcılar 15 Temmuz Eskort Bayan İlanları
 

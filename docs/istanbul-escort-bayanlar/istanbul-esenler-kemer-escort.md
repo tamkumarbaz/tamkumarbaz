@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenler Kemer Escort | İstanbul Esenler Kemer Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Silivri Gümüşyaka eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Silivri Gümüşyaka Escort | Berçem Engez VIP İlanları
 

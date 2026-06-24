@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Fatih Haseki Escort | İstanbul Fatih Haseki Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Büyükçekmece eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Büyükçekmece Escort | Berçem Engez VIP İlanları
 

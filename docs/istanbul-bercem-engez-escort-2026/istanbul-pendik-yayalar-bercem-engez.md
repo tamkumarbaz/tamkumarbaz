@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Pendik Yayalar eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Pendik Yayalar Escort | Berçem Engez VIP İlanları
 

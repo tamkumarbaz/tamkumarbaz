@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Silivri Selimpaşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Silivri Selimpaşa Escort | Berçem Engez VIP İlanları
 

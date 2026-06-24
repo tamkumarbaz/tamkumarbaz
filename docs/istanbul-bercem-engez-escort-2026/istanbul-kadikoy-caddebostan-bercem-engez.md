@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Kadıköy Caddebostan eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kadıköy Caddebostan Escort | Berçem Engez VIP İlanları
 

@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Sultangazi Uğur Mumcu eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sultangazi Uğur Mumcu Escort | Berçem Engez VIP İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Fatih Cerrahpaşa Escort | İstanbul Fatih Cerrahpaşa Eskort Bayan İlanları
 

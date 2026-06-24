@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beyoğlu Piri Paşa Escort | İstanbul Beyoğlu Piri Paşa Eskort Bayan İlanları
 

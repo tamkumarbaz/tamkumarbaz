@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Fatih Eminönü eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Fatih Eminönü Escort | Berçem Engez VIP İlanları
 

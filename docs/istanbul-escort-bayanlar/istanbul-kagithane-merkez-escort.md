@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kağıthane Merkez Escort | İstanbul Kağıthane Merkez Eskort Bayan İlanları
 

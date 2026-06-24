@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye Ihlamurkuyu Escort | İstanbul Ümraniye Ihlamurkuyu Eskort Bayan İlanları
 

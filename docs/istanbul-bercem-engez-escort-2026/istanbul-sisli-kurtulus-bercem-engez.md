@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Şişli Kurtuluş eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Şişli Kurtuluş Escort | Berçem Engez VIP İlanları
 

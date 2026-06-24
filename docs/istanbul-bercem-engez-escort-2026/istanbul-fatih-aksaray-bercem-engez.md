@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Fatih Aksaray eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Fatih Aksaray Escort | Berçem Engez VIP İlanları
 

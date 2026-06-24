@@ -15,7 +15,8 @@ metadata:
     ilanları. En popüler Bakırköy İncirli eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bakırköy İncirli Escort | İstanbul Bakırköy İncirli Eskort Bayan İlanları
 

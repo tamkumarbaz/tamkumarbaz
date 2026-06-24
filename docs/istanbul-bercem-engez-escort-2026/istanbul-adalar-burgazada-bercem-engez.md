@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Adalar Burgazada eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Adalar Burgazada Escort | Berçem Engez VIP İlanları
 

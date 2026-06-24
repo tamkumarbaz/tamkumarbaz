@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye Saray Escort | İstanbul Ümraniye Saray Eskort Bayan İlanları
 

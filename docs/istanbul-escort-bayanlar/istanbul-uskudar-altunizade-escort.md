@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Üsküdar Altunizade Escort | İstanbul Üsküdar Altunizade Eskort Bayan İlanları
 

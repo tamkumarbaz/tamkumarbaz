@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye Atakent Escort | İstanbul Ümraniye Atakent Eskort Bayan İlanları
 

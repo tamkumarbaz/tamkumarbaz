@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çatalca Çiftlikköy Escort | İstanbul Çatalca Çiftlikköy Eskort Bayan İlanları
 

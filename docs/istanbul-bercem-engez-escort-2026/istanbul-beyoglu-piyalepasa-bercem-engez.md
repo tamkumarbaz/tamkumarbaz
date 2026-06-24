@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beyoğlu Piyalepaşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beyoğlu Piyalepaşa Escort | Berçem Engez VIP İlanları
 

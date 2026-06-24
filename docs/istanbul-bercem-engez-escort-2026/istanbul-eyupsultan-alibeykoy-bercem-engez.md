@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Eyüpsultan Alibeyköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Eyüpsultan Alibeyköy Escort | Berçem Engez VIP İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Adalar Burgazada Escort | İstanbul Adalar Burgazada Eskort Bayan İlanları
 

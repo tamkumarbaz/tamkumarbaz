@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şile Kumbaba Escort | İstanbul Şile Kumbaba Eskort Bayan İlanları
 

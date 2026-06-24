@@ -15,7 +15,8 @@ metadata:
     model ilanları. En popüler Ataşehir İçerenköy eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ataşehir İçerenköy Escort | İstanbul Ataşehir İçerenköy Eskort Bayan İlanları
 

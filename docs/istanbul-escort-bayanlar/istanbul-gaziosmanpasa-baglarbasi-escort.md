@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Gaziosmanpaşa Bağlarbaşı Escort | İstanbul Gaziosmanpaşa Bağlarbaşı Eskort Bayan İlanları
 

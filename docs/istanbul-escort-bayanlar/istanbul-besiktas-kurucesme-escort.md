@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beşiktaş Kuruçeşme Escort | İstanbul Beşiktaş Kuruçeşme Eskort Bayan İlanları
 

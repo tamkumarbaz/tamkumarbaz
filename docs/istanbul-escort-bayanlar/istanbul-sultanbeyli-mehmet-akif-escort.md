@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultanbeyli Mehmet Akif Escort | İstanbul Sultanbeyli Mehmet Akif Eskort Bayan İlanları
 

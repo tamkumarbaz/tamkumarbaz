@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Üsküdar Bulgurlu eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Üsküdar Bulgurlu Escort | Berçem Engez VIP İlanları
 

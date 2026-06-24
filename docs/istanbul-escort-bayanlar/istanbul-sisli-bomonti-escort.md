@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şişli Bomonti Escort | İstanbul Şişli Bomonti Eskort Bayan İlanları
 

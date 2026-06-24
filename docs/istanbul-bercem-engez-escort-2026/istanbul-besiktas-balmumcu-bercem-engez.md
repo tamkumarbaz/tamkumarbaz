@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beşiktaş Balmumcu eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beşiktaş Balmumcu Escort | Berçem Engez VIP İlanları
 

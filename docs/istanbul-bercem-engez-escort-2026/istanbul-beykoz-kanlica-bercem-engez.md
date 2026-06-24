@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beykoz Kanlıca eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beykoz Kanlıca Escort | Berçem Engez VIP İlanları
 

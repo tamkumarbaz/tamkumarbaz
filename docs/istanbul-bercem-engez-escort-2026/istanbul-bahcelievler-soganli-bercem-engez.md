@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bahçelievler Soğanlı eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bahçelievler Soğanlı Escort | Berçem Engez VIP İlanları
 

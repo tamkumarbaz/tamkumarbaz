@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bahçelievler Fevzi Çakmak Escort | İstanbul Bahçelievler Fevzi Çakmak Eskort Bayan İlanları
 

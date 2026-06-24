@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beşiktaş Ulus eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beşiktaş Ulus Escort | Berçem Engez VIP İlanları
 

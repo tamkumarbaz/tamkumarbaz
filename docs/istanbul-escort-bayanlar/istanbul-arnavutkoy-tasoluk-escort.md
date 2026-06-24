@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy Taşoluk Escort | İstanbul Arnavutköy Taşoluk Eskort Bayan İlanları
 

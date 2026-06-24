@@ -11,7 +11,8 @@ metadata:
     En popüler Tuzla eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Tuzla Escort | Berçem Engez VIP İlanları
 

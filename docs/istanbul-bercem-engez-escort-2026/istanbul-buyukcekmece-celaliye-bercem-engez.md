@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Büyükçekmece Celaliye eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Büyükçekmece Celaliye Escort | Berçem Engez VIP İlanları
 

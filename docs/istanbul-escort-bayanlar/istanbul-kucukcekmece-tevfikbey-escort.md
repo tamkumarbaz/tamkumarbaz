@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece Tevfikbey Escort | İstanbul Küçükçekmece Tevfikbey Eskort Bayan İlanları
 

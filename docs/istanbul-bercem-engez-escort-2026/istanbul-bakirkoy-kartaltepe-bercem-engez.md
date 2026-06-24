@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bakırköy Kartaltepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bakırköy Kartaltepe Escort | Berçem Engez VIP İlanları
 

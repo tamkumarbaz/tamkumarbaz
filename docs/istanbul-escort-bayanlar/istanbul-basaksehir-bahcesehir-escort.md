@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Başakşehir Bahçeşehir Escort | İstanbul Başakşehir Bahçeşehir Eskort Bayan İlanları
 

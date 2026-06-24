@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bağcılar Güneşli eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bağcılar Güneşli Escort | Berçem Engez VIP İlanları
 

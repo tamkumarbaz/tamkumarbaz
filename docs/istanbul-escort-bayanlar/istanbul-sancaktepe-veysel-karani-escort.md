@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sancaktepe Veysel Karani Escort | İstanbul Sancaktepe Veysel Karani Eskort Bayan İlanları
 

@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece Yeşilova Escort | İstanbul Küçükçekmece Yeşilova Eskort Bayan İlanları
 

@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şile Çavuş Escort | İstanbul Şile Çavuş Eskort Bayan İlanları
 

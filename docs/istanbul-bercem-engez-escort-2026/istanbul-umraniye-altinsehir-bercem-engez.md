@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Ümraniye Altınşehir eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Ümraniye Altınşehir Escort | Berçem Engez VIP İlanları
 

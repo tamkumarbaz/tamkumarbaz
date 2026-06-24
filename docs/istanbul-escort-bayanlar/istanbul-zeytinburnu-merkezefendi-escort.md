@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Zeytinburnu Merkezefendi Escort | İstanbul Zeytinburnu Merkezefendi Eskort Bayan İlanları
 

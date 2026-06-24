@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Sancaktepe Yenidoğan eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sancaktepe Yenidoğan Escort | Berçem Engez VIP İlanları
 

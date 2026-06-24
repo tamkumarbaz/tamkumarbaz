@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beyoğlu Kasımpaşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beyoğlu Kasımpaşa Escort | Berçem Engez VIP İlanları
 

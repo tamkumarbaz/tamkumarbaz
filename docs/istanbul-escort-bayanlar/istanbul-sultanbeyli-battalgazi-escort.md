@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultanbeyli Battalgazi Escort | İstanbul Sultanbeyli Battalgazi Eskort Bayan İlanları
 

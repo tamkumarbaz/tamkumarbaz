@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Esenler Nine Hatun eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Esenler Nine Hatun Escort | Berçem Engez VIP İlanları
 

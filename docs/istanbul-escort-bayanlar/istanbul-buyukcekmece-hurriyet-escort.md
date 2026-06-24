@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Büyükçekmece Hürriyet Escort | İstanbul Büyükçekmece Hürriyet Eskort Bayan İlanları
 

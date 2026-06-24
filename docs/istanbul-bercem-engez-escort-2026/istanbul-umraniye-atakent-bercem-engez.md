@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Ümraniye Atakent eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Ümraniye Atakent Escort | Berçem Engez VIP İlanları
 

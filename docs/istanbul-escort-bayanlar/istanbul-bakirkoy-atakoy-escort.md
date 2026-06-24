@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bakırköy Ataköy Escort | İstanbul Bakırköy Ataköy Eskort Bayan İlanları
 

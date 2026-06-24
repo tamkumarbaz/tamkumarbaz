@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Avcılar Tahtakale eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Avcılar Tahtakale Escort | Berçem Engez VIP İlanları
 

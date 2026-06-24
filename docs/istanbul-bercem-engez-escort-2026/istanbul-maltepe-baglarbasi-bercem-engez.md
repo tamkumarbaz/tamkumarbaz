@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Maltepe Bağlarbaşı eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Maltepe Bağlarbaşı Escort | Berçem Engez VIP İlanları
 

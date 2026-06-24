@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ataşehir Batı Ataşehir Escort | İstanbul Ataşehir Batı Ataşehir Eskort Bayan İlanları
 

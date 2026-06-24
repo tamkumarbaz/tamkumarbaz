@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beykoz Göztepe Escort | İstanbul Beykoz Göztepe Eskort Bayan İlanları
 

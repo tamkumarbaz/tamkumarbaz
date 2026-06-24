@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Zeytinburnu Gökalp Escort | İstanbul Zeytinburnu Gökalp Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sarıyer İstinye Escort | İstanbul Sarıyer İstinye Eskort Bayan İlanları
 

@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sarıyer Rumelihisarı Escort | İstanbul Sarıyer Rumelihisarı Eskort Bayan İlanları
 

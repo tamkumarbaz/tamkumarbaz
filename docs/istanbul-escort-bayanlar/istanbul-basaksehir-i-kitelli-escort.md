@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Başakşehir İkitelli Escort | İstanbul Başakşehir İkitelli Eskort Bayan İlanları
 

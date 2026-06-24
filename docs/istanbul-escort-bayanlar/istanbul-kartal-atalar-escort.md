@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kartal Atalar Escort | İstanbul Kartal Atalar Eskort Bayan İlanları
 

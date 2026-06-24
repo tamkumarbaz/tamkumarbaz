@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bağcılar Merkez Escort | İstanbul Bağcılar Merkez Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Eyüpsultan Topçular eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Eyüpsultan Topçular Escort | Berçem Engez VIP İlanları
 

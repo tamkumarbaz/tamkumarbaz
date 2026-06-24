@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beyoğlu Sütlüce Escort | İstanbul Beyoğlu Sütlüce Eskort Bayan İlanları
 

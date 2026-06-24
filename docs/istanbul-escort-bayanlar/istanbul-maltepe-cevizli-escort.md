@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Maltepe Cevizli Escort | İstanbul Maltepe Cevizli Eskort Bayan İlanları
 

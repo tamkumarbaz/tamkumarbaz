@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beşiktaş Yıldız eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beşiktaş Yıldız Escort | Berçem Engez VIP İlanları
 

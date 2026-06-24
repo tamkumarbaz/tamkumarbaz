@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çekmeköy Kirazlıdere Escort | İstanbul Çekmeköy Kirazlıdere Eskort Bayan İlanları
 

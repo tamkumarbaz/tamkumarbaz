@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şişli İzzetpaşa Escort | İstanbul Şişli İzzetpaşa Eskort Bayan İlanları
 

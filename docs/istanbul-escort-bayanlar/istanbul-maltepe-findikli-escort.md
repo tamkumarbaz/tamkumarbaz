@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Maltepe Fındıklı Escort | İstanbul Maltepe Fındıklı Eskort Bayan İlanları
 

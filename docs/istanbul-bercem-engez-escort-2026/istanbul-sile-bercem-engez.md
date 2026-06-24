@@ -11,7 +11,8 @@ metadata:
     En popüler Şile eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Şile Escort | Berçem Engez VIP İlanları
 

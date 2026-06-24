@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sancaktepe Eyüp Sultan Escort | İstanbul Sancaktepe Eyüp Sultan Eskort Bayan İlanları
 

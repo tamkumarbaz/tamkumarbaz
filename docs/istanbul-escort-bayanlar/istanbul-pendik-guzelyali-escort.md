@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Pendik Güzelyalı Escort | İstanbul Pendik Güzelyalı Eskort Bayan İlanları
 

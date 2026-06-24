@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Kartal Petrol İş eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kartal Petrol İş Escort | Berçem Engez VIP İlanları
 

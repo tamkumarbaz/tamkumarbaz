@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Maltepe Zümrütevler eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Maltepe Zümrütevler Escort | Berçem Engez VIP İlanları
 

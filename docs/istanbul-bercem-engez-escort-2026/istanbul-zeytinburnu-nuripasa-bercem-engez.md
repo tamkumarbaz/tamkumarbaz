@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Zeytinburnu Nuripaşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Zeytinburnu Nuripaşa Escort | Berçem Engez VIP İlanları
 

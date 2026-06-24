@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beyoğlu Asmalımescit Escort | İstanbul Beyoğlu Asmalımescit Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beylikdüzü Marmara Escort | İstanbul Beylikdüzü Marmara Eskort Bayan İlanları
 

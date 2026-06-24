@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Zeytinburnu Seyitnizam Escort | İstanbul Zeytinburnu Seyitnizam Eskort Bayan İlanları
 

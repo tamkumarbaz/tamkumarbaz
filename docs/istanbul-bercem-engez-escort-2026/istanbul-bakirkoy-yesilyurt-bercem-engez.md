@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bakırköy Yeşilyurt eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bakırköy Yeşilyurt Escort | Berçem Engez VIP İlanları
 

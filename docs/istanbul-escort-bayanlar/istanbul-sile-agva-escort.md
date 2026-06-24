@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şile Ağva Escort | İstanbul Şile Ağva Eskort Bayan İlanları
 

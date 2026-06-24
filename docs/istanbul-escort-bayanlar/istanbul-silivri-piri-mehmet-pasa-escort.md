@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Silivri Piri Mehmet Paşa Escort | İstanbul Silivri Piri Mehmet Paşa Eskort Bayan İlanları
 

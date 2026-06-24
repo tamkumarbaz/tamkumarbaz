@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beşiktaş Akatlar eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beşiktaş Akatlar Escort | Berçem Engez VIP İlanları
 

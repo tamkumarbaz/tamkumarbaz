@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Şişli Feriköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Şişli Feriköy Escort | Berçem Engez VIP İlanları
 

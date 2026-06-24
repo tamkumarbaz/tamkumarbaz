@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Üsküdar Yavuztürk Escort | İstanbul Üsküdar Yavuztürk Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Zeytinburnu Beştelsiz eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Zeytinburnu Beştelsiz Escort | Berçem Engez VIP İlanları
 

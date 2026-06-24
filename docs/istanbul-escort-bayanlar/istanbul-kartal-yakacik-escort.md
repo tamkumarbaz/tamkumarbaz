@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kartal Yakacık Escort | İstanbul Kartal Yakacık Eskort Bayan İlanları
 

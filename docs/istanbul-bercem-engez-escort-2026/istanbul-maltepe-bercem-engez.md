@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Maltepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Maltepe Escort | Berçem Engez VIP İlanları
 

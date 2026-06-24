@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beylikdüzü Sahil Escort | İstanbul Beylikdüzü Sahil Eskort Bayan İlanları
 

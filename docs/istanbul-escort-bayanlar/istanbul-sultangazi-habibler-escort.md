@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultangazi Habibler Escort | İstanbul Sultangazi Habibler Eskort Bayan İlanları
 

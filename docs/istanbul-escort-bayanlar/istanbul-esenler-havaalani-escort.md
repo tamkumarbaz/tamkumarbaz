@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenler Havaalanı Escort | İstanbul Esenler Havaalanı Eskort Bayan İlanları
 

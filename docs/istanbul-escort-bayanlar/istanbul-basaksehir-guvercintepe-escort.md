@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Başakşehir Güvercintepe Escort | İstanbul Başakşehir Güvercintepe Eskort Bayan İlanları
 

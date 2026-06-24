@@ -11,7 +11,8 @@ metadata:
     VIP model ilanları. En popüler Gaziosmanpaşa Şemsipaşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Gaziosmanpaşa Şemsipaşa Escort | Berçem Engez VIP İlanları
 

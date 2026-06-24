@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beylikdüzü Gürpınar eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beylikdüzü Gürpınar Escort | Berçem Engez VIP İlanları
 

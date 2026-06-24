@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beykoz Yalıköy Escort | İstanbul Beykoz Yalıköy Eskort Bayan İlanları
 

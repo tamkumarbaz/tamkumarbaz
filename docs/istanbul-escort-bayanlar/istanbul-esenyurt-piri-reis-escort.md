@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenyurt Piri Reis Escort | İstanbul Esenyurt Piri Reis Eskort Bayan İlanları
 

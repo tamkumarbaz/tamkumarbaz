@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sancaktepe Meclis Escort | İstanbul Sancaktepe Meclis Eskort Bayan İlanları
 

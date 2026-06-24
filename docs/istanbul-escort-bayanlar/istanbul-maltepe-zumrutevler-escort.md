@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Maltepe Zümrütevler Escort | İstanbul Maltepe Zümrütevler Eskort Bayan İlanları
 

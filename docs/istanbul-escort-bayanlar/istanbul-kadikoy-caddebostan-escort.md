@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kadıköy Caddebostan Escort | İstanbul Kadıköy Caddebostan Eskort Bayan İlanları
 

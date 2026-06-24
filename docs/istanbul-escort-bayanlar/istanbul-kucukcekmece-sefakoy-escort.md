@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece Sefaköy Escort | İstanbul Küçükçekmece Sefaköy Eskort Bayan İlanları
 

@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Tuzla Cami Escort | İstanbul Tuzla Cami Eskort Bayan İlanları
 

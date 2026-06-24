@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sancaktepe Abdurrahmangazi Escort | İstanbul Sancaktepe Abdurrahmangazi Eskort Bayan İlanları
 

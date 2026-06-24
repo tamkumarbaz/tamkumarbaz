@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Maltepe Yalı Escort | İstanbul Maltepe Yalı Eskort Bayan İlanları
 

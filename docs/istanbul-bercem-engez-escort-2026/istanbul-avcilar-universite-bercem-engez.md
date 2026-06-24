@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Avcılar Üniversite eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Avcılar Üniversite Escort | Berçem Engez VIP İlanları
 

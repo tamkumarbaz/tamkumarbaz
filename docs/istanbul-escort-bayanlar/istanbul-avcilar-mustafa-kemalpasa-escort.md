@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Avcılar Mustafa Kemalpaşa Escort | İstanbul Avcılar Mustafa Kemalpaşa Eskort Bayan İlanları
 

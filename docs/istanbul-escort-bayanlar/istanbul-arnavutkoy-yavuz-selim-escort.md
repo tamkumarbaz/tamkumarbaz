@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy Yavuz Selim Escort | İstanbul Arnavutköy Yavuz Selim Eskort Bayan İlanları
 

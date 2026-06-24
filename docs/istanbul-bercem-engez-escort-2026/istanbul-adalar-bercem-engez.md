@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Adalar eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Adalar Escort | Berçem Engez VIP İlanları
 

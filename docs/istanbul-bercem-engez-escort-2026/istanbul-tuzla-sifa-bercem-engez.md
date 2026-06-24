@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Tuzla Şifa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Tuzla Şifa Escort | Berçem Engez VIP İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenler Turgutreis Escort | İstanbul Esenler Turgutreis Eskort Bayan İlanları
 

@@ -15,7 +15,8 @@ metadata:
     ilanları. En popüler Esenyurt İstiklal eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenyurt İstiklal Escort | İstanbul Esenyurt İstiklal Eskort Bayan İlanları
 

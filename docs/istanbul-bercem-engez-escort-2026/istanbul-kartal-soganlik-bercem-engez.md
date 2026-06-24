@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Kartal Soğanlık eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kartal Soğanlık Escort | Berçem Engez VIP İlanları
 

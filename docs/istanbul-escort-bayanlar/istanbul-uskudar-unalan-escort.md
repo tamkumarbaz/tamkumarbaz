@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Üsküdar Ünalan Escort | İstanbul Üsküdar Ünalan Eskort Bayan İlanları
 

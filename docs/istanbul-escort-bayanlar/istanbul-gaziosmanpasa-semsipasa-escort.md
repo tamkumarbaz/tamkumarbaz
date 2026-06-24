@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Gaziosmanpaşa Şemsipaşa Escort | İstanbul Gaziosmanpaşa Şemsipaşa Eskort Bayan İlanları
 

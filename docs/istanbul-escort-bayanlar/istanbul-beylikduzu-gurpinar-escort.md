@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beylikdüzü Gürpınar Escort | İstanbul Beylikdüzü Gürpınar Eskort Bayan İlanları
 

@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenyurt Mehterçeşme Escort | İstanbul Esenyurt Mehterçeşme Eskort Bayan İlanları
 

@@ -12,7 +12,8 @@ metadata:
     vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sultangazi Zübeyde Hanım Escort | Berçem Engez VIP İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy Haraççı Escort | İstanbul Arnavutköy Haraççı Eskort Bayan İlanları
 

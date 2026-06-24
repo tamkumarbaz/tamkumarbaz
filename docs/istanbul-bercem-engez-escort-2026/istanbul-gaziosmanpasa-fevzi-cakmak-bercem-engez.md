@@ -13,7 +13,8 @@ metadata:
     vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Gaziosmanpaşa Fevzi Çakmak Escort | Berçem Engez VIP İlanları
 

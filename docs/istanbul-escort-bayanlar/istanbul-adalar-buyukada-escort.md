@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Adalar Büyükada Escort | İstanbul Adalar Büyükada Eskort Bayan İlanları
 

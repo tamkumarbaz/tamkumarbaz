@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Güngören Akıncılar Escort | İstanbul Güngören Akıncılar Eskort Bayan İlanları
 

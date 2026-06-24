@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Avcılar Firuzköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Avcılar Firuzköy Escort | Berçem Engez VIP İlanları
 

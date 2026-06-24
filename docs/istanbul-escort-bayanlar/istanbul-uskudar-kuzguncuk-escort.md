@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Üsküdar Kuzguncuk Escort | İstanbul Üsküdar Kuzguncuk Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Çatalca Karacaköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Çatalca Karacaköy Escort | Berçem Engez VIP İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çekmeköy Aydınlar Escort | İstanbul Çekmeköy Aydınlar Eskort Bayan İlanları
 

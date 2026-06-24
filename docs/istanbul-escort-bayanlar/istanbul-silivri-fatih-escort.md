@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Silivri Fatih Escort | İstanbul Silivri Fatih Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kartal Karlıktepe Escort | İstanbul Kartal Karlıktepe Eskort Bayan İlanları
 

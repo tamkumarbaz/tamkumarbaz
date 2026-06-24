@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Çekmeköy Hamidiye eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Çekmeköy Hamidiye Escort | Berçem Engez VIP İlanları
 

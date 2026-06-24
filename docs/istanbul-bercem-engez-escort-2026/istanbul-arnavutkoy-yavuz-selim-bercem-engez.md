@@ -11,7 +11,8 @@ metadata:
     VIP model ilanları. En popüler Arnavutköy Yavuz Selim eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Arnavutköy Yavuz Selim Escort | Berçem Engez VIP İlanları
 

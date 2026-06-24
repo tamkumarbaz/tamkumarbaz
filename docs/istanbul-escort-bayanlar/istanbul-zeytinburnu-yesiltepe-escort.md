@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Zeytinburnu Yeşiltepe Escort | İstanbul Zeytinburnu Yeşiltepe Eskort Bayan İlanları
 

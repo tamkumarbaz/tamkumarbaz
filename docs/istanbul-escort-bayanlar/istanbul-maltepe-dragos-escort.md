@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Maltepe Dragos Escort | İstanbul Maltepe Dragos Eskort Bayan İlanları
 

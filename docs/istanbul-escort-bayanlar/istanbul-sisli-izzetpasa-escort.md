@@ -15,7 +15,8 @@ metadata:
     ilanları. En popüler Şişli İzzetpaşa eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şişli İzzetpaşa Escort | İstanbul Şişli İzzetpaşa Eskort Bayan İlanları
 

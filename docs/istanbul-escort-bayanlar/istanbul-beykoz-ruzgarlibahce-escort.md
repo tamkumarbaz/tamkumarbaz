@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beykoz Rüzgarlıbahçe Escort | İstanbul Beykoz Rüzgarlıbahçe Eskort Bayan İlanları
 

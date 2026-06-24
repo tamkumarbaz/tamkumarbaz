@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bağcılar Göztepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bağcılar Göztepe Escort | Berçem Engez VIP İlanları
 

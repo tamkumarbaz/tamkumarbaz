@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Eyüpsultan Topçular Escort | İstanbul Eyüpsultan Topçular Eskort Bayan İlanları
 

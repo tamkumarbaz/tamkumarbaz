@@ -15,7 +15,8 @@ metadata:
     ilanları. En popüler Ümraniye İstiklal eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye İstiklal Escort | İstanbul Ümraniye İstiklal Eskort Bayan İlanları
 

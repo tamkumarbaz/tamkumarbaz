@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beykoz Kavacık Escort | İstanbul Beykoz Kavacık Eskort Bayan İlanları
 

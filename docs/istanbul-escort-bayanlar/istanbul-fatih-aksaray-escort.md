@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Fatih Aksaray Escort | İstanbul Fatih Aksaray Eskort Bayan İlanları
 

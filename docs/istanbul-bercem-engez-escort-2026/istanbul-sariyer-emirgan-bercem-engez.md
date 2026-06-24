@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Sarıyer Emirgan eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sarıyer Emirgan Escort | Berçem Engez VIP İlanları
 

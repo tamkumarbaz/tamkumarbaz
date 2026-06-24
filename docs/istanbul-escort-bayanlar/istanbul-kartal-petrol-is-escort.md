@@ -15,7 +15,8 @@ metadata:
     ilanları. En popüler Kartal Petrol İş eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kartal Petrol İş Escort | İstanbul Kartal Petrol İş Eskort Bayan İlanları
 

@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Pendik Batı Escort | İstanbul Pendik Batı Eskort Bayan İlanları
 

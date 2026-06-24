@@ -13,7 +13,8 @@ metadata:
     ilanları. En popüler Tuzla İstasyon eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Tuzla İstasyon Escort | İstanbul Tuzla İstasyon Eskort Bayan İlanları
 

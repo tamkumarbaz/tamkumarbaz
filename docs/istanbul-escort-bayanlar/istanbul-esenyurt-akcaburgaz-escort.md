@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenyurt Akçaburgaz Escort | İstanbul Esenyurt Akçaburgaz Eskort Bayan İlanları
 

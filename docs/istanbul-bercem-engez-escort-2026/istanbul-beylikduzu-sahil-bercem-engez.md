@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beylikdüzü Sahil eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beylikdüzü Sahil Escort | Berçem Engez VIP İlanları
 

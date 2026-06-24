@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Büyükçekmece Batıköy Escort | İstanbul Büyükçekmece Batıköy Eskort Bayan İlanları
 

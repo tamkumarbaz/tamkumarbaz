@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Güngören Gençosman eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Güngören Gençosman Escort | Berçem Engez VIP İlanları
 

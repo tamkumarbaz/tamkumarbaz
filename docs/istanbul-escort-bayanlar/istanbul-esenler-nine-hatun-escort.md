@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenler Nine Hatun Escort | İstanbul Esenler Nine Hatun Eskort Bayan İlanları
 

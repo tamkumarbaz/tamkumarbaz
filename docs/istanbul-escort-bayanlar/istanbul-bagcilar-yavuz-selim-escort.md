@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bağcılar Yavuz Selim Escort | İstanbul Bağcılar Yavuz Selim Eskort Bayan İlanları
 

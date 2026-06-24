@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Kartal Esentepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kartal Esentepe Escort | Berçem Engez VIP İlanları
 

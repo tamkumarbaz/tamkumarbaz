@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Güngören Güneştepe Escort | İstanbul Güngören Güneştepe Eskort Bayan İlanları
 

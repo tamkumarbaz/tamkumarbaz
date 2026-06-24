@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beykoz Acarlar Escort | İstanbul Beykoz Acarlar Eskort Bayan İlanları
 

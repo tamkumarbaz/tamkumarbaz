@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Pendik Bahçelievler Escort | İstanbul Pendik Bahçelievler Eskort Bayan İlanları
 

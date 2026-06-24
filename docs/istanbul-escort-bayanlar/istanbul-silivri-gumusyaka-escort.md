@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Silivri Gümüşyaka Escort | İstanbul Silivri Gümüşyaka Eskort Bayan İlanları
 

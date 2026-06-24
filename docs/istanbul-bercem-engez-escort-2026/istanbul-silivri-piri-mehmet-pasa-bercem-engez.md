@@ -12,7 +12,8 @@ metadata:
     vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Silivri Piri Mehmet Paşa Escort | Berçem Engez VIP İlanları
 

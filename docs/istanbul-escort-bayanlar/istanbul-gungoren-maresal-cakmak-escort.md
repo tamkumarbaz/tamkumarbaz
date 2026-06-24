@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Güngören Mareşal Çakmak Escort | İstanbul Güngören Mareşal Çakmak Eskort Bayan İlanları
 

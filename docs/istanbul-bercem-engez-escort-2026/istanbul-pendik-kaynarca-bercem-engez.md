@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Pendik Kaynarca eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Pendik Kaynarca Escort | Berçem Engez VIP İlanları
 

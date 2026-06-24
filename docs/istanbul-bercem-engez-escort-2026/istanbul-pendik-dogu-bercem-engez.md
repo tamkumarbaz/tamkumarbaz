@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Pendik Doğu eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Pendik Doğu Escort | Berçem Engez VIP İlanları
 

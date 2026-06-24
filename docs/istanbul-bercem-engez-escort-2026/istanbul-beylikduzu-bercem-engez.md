@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beylikdüzü eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beylikdüzü Escort | Berçem Engez VIP İlanları
 

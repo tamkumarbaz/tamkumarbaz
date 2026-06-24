@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Gaziosmanpaşa Yıldıztabya Escort | İstanbul Gaziosmanpaşa Yıldıztabya Eskort Bayan İlanları
 

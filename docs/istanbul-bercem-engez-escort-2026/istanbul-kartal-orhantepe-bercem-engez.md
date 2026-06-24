@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Kartal Orhantepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kartal Orhantepe Escort | Berçem Engez VIP İlanları
 

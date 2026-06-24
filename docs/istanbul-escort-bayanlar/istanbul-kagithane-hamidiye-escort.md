@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kağıthane Hamidiye Escort | İstanbul Kağıthane Hamidiye Eskort Bayan İlanları
 

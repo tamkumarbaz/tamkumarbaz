@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beykoz Göztepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beykoz Göztepe Escort | Berçem Engez VIP İlanları
 

@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Avcılar Denizköşkler Escort | İstanbul Avcılar Denizköşkler Eskort Bayan İlanları
 

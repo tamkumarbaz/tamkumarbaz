@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beyoğlu Sütlüce eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beyoğlu Sütlüce Escort | Berçem Engez VIP İlanları
 

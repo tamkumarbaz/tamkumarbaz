@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Zeytinburnu Veliefendi Escort | İstanbul Zeytinburnu Veliefendi Eskort Bayan İlanları
 

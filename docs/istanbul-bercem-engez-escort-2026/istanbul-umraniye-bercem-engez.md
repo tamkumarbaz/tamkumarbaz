@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Ümraniye eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Ümraniye Escort | Berçem Engez VIP İlanları
 

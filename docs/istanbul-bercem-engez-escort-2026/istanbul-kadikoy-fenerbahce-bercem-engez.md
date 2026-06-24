@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Kadıköy Fenerbahçe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kadıköy Fenerbahçe Escort | Berçem Engez VIP İlanları
 

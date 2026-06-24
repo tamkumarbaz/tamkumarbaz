@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beyoğlu Galata eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beyoğlu Galata Escort | Berçem Engez VIP İlanları
 

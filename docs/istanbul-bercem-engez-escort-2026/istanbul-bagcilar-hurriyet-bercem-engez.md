@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bağcılar Hürriyet eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bağcılar Hürriyet Escort | Berçem Engez VIP İlanları
 

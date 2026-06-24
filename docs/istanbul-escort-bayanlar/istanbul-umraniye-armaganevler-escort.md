@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye Armağanevler Escort | İstanbul Ümraniye Armağanevler Eskort Bayan İlanları
 

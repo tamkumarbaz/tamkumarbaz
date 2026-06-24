@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Beykoz Çubuklu eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beykoz Çubuklu Escort | Berçem Engez VIP İlanları
 

@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Güngören Tozkoparan eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Güngören Tozkoparan Escort | Berçem Engez VIP İlanları
 

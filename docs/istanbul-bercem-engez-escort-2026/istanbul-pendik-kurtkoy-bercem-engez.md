@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Pendik Kurtköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Pendik Kurtköy Escort | Berçem Engez VIP İlanları
 

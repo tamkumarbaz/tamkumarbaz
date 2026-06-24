@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultangazi 50. Yıl Escort | İstanbul Sultangazi 50. Yıl Eskort Bayan İlanları
 

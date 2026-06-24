@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beyoğlu Karaköy Escort | İstanbul Beyoğlu Karaköy Eskort Bayan İlanları
 

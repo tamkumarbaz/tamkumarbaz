@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye Şerifali Escort | İstanbul Ümraniye Şerifali Eskort Bayan İlanları
 

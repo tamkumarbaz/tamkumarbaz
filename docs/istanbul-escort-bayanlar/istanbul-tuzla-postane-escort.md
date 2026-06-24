@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Tuzla Postane Escort | İstanbul Tuzla Postane Eskort Bayan İlanları
 

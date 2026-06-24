@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bağcılar 15 Temmuz eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bağcılar 15 Temmuz Escort | Berçem Engez VIP İlanları
 

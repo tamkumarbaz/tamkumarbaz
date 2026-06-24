@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kadıköy Kozyatağı Escort | İstanbul Kadıköy Kozyatağı Eskort Bayan İlanları
 

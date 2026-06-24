@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Bakırköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bakırköy Escort | Berçem Engez VIP İlanları
 

@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Maltepe Yalı eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Maltepe Yalı Escort | Berçem Engez VIP İlanları
 

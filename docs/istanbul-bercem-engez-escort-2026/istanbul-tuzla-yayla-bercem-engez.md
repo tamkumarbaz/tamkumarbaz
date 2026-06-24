@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Tuzla Yayla eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Tuzla Yayla Escort | Berçem Engez VIP İlanları
 

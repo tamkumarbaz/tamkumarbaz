@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beyoğlu Piri Paşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beyoğlu Piri Paşa Escort | Berçem Engez VIP İlanları
 

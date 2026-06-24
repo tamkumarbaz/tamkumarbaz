@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beşiktaş Bebek Escort | İstanbul Beşiktaş Bebek Eskort Bayan İlanları
 

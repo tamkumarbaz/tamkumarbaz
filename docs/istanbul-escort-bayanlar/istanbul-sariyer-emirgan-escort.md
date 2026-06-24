@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sarıyer Emirgan Escort | İstanbul Sarıyer Emirgan Eskort Bayan İlanları
 

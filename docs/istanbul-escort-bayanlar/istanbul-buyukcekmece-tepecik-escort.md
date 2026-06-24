@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Büyükçekmece Tepecik Escort | İstanbul Büyükçekmece Tepecik Eskort Bayan İlanları
 

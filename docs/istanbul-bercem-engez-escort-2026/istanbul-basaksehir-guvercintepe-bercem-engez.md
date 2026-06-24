@@ -11,7 +11,8 @@ metadata:
     VIP model ilanları. En popüler Başakşehir Güvercintepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Başakşehir Güvercintepe Escort | Berçem Engez VIP İlanları
 

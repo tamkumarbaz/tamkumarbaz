@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy Anadolu Escort | İstanbul Arnavutköy Anadolu Eskort Bayan İlanları
 

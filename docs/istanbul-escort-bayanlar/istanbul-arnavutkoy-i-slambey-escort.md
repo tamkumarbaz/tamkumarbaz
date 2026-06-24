@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy İslambey Escort | İstanbul Arnavutköy İslambey Eskort Bayan İlanları
 

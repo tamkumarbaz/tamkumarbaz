@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Silivri Mimarsinan Escort | İstanbul Silivri Mimarsinan Eskort Bayan İlanları
 

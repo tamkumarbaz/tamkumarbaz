@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kağıthane Seyrantepe Escort | İstanbul Kağıthane Seyrantepe Eskort Bayan İlanları
 

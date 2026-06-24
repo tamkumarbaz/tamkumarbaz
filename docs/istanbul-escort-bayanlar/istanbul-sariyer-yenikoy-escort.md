@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sarıyer Yeniköy Escort | İstanbul Sarıyer Yeniköy Eskort Bayan İlanları
 

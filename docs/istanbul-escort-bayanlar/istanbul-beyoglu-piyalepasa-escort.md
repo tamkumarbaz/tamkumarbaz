@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beyoğlu Piyalepaşa Escort | İstanbul Beyoğlu Piyalepaşa Eskort Bayan İlanları
 

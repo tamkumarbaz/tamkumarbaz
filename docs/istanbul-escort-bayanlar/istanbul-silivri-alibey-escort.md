@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Silivri Alibey Escort | İstanbul Silivri Alibey Eskort Bayan İlanları
 

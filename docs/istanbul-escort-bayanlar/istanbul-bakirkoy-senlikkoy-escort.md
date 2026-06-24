@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bakırköy Şenlikköy Escort | İstanbul Bakırköy Şenlikköy Eskort Bayan İlanları
 

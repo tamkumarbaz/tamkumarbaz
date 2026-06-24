@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kağıthane Gürsel Escort | İstanbul Kağıthane Gürsel Eskort Bayan İlanları
 

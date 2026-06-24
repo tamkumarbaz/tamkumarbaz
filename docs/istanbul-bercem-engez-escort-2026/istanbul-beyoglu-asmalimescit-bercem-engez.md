@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beyoğlu Asmalımescit eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beyoğlu Asmalımescit Escort | Berçem Engez VIP İlanları
 

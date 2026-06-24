@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultanbeyli Yavuz Selim Escort | İstanbul Sultanbeyli Yavuz Selim Eskort Bayan İlanları
 

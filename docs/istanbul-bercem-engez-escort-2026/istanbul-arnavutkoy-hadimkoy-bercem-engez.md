@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Arnavutköy Hadımköy eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Arnavutköy Hadımköy Escort | Berçem Engez VIP İlanları
 

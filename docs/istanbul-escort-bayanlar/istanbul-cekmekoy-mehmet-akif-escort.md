@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çekmeköy Mehmet Akif Escort | İstanbul Çekmeköy Mehmet Akif Eskort Bayan İlanları
 

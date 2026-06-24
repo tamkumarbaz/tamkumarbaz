@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenler Namık Kemal Escort | İstanbul Esenler Namık Kemal Eskort Bayan İlanları
 

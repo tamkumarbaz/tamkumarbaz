@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bakırköy Zuhuratbaba Escort | İstanbul Bakırköy Zuhuratbaba Eskort Bayan İlanları
 

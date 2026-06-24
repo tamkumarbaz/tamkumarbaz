@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Eyüpsultan Kemerburgaz Escort | İstanbul Eyüpsultan Kemerburgaz Eskort Bayan İlanları
 

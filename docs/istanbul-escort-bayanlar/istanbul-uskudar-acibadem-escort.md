@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Üsküdar Acıbadem Escort | İstanbul Üsküdar Acıbadem Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ümraniye Altınşehir Escort | İstanbul Ümraniye Altınşehir Eskort Bayan İlanları
 

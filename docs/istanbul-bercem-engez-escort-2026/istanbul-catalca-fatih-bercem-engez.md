@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Çatalca Fatih eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Çatalca Fatih Escort | Berçem Engez VIP İlanları
 

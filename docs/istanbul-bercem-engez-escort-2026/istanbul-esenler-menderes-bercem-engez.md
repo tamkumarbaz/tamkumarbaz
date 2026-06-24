@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Esenler Menderes eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Esenler Menderes Escort | Berçem Engez VIP İlanları
 

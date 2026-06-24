@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Gaziosmanpaşa Merkez Escort | İstanbul Gaziosmanpaşa Merkez Eskort Bayan İlanları
 

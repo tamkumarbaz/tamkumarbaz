@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Esenler Davutpaşa eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Esenler Davutpaşa Escort | Berçem Engez VIP İlanları
 

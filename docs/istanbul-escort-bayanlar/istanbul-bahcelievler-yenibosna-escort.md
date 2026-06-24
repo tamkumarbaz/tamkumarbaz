@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bahçelievler Yenibosna Escort | İstanbul Bahçelievler Yenibosna Eskort Bayan İlanları
 

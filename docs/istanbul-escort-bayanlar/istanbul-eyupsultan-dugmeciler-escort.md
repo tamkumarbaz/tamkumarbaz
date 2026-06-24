@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Eyüpsultan Düğmeciler Escort | İstanbul Eyüpsultan Düğmeciler Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Silivri Alibey eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Silivri Alibey Escort | Berçem Engez VIP İlanları
 

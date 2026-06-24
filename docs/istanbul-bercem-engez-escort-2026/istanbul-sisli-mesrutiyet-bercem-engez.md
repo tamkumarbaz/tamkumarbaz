@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Şişli Meşrutiyet eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Şişli Meşrutiyet Escort | Berçem Engez VIP İlanları
 

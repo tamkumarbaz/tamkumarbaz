@@ -15,7 +15,8 @@ metadata:
     ilanları. En popüler Maltepe İdealtepe eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Maltepe İdealtepe Escort | İstanbul Maltepe İdealtepe Eskort Bayan İlanları
 

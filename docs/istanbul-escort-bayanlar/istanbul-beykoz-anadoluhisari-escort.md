@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beykoz Anadoluhisarı Escort | İstanbul Beykoz Anadoluhisarı Eskort Bayan İlanları
 

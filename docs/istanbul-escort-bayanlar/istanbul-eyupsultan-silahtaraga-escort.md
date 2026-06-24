@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Eyüpsultan Silahtarağa Escort | İstanbul Eyüpsultan Silahtarağa Eskort Bayan İlanları
 

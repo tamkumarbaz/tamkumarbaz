@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Sultangazi eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sultangazi Escort | Berçem Engez VIP İlanları
 

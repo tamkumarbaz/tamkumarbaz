@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Üsküdar Küçüksu eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Üsküdar Küçüksu Escort | Berçem Engez VIP İlanları
 

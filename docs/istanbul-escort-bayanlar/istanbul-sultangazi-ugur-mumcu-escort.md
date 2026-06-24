@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Sultangazi Uğur Mumcu Escort | İstanbul Sultangazi Uğur Mumcu Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beylikdüzü Barış Escort | İstanbul Beylikdüzü Barış Eskort Bayan İlanları
 

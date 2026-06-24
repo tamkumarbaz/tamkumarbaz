@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Fatih Haseki eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Fatih Haseki Escort | Berçem Engez VIP İlanları
 

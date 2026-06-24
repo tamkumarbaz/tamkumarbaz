@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bakırköy Zeytinlik eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bakırköy Zeytinlik Escort | Berçem Engez VIP İlanları
 

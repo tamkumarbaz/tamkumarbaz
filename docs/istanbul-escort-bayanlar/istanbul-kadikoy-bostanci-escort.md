@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kadıköy Bostancı Escort | İstanbul Kadıköy Bostancı Eskort Bayan İlanları
 

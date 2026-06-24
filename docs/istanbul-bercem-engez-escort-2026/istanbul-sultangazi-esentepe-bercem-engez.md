@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Sultangazi Esentepe eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sultangazi Esentepe Escort | Berçem Engez VIP İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Bakırköy Basınköy Escort | İstanbul Bakırköy Basınköy Eskort Bayan İlanları
 

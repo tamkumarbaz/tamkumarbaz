@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çekmeköy Mimar Sinan Escort | İstanbul Çekmeköy Mimar Sinan Eskort Bayan İlanları
 

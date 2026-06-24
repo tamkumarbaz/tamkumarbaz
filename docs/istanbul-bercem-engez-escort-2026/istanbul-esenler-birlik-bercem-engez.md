@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Esenler Birlik eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Esenler Birlik Escort | Berçem Engez VIP İlanları
 

@@ -11,7 +11,8 @@ metadata:
     VIP model ilanları. En popüler Sultanbeyli Mehmet Akif eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sultanbeyli Mehmet Akif Escort | Berçem Engez VIP İlanları
 

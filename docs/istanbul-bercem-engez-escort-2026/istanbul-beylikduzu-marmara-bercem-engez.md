@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Beylikdüzü Marmara eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Beylikdüzü Marmara Escort | Berçem Engez VIP İlanları
 

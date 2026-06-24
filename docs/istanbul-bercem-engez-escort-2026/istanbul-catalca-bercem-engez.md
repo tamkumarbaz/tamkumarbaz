@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Çatalca eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Çatalca Escort | Berçem Engez VIP İlanları
 

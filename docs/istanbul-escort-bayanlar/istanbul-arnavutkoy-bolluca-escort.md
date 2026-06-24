@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy Bolluca Escort | İstanbul Arnavutköy Bolluca Eskort Bayan İlanları
 

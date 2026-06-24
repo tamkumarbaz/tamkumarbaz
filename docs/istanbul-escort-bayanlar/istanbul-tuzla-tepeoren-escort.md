@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Tuzla Tepeören Escort | İstanbul Tuzla Tepeören Eskort Bayan İlanları
 

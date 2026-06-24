@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece Cennet Escort | İstanbul Küçükçekmece Cennet Eskort Bayan İlanları
 

@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Sarıyer Tarabya eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sarıyer Tarabya Escort | Berçem Engez VIP İlanları
 

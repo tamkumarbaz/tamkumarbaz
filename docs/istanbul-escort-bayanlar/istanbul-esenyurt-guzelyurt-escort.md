@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Esenyurt Güzelyurt Escort | İstanbul Esenyurt Güzelyurt Eskort Bayan İlanları
 

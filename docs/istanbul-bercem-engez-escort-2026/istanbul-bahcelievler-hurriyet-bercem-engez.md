@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bahçelievler Hürriyet eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bahçelievler Hürriyet Escort | Berçem Engez VIP İlanları
 

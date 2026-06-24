@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şişli Fulya Escort | İstanbul Şişli Fulya Eskort Bayan İlanları
 

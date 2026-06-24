@@ -18,7 +18,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Fatih Laleli Escort | İstanbul Fatih Laleli Eskort Bayan İlanları
 

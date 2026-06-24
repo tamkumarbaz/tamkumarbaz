@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Kartal Atalar eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Kartal Atalar Escort | Berçem Engez VIP İlanları
 

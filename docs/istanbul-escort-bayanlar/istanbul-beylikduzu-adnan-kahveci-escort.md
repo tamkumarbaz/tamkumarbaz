@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beylikdüzü Adnan Kahveci Escort | İstanbul Beylikdüzü Adnan Kahveci Eskort Bayan İlanları
 

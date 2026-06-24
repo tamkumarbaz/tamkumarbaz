@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Tuzla İçmeler eskort bayan vitrini rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Tuzla İçmeler Escort | İstanbul Tuzla İçmeler Eskort Bayan İlanları
 

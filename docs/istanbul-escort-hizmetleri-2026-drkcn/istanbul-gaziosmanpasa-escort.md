@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-hizmetleri-2026-drkcn---
+  uri: istanbul-escort-hizmetleri-2026-drkcn
+---
 
 
 

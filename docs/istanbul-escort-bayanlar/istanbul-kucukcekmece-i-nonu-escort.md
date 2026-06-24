@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece İnönü Escort | İstanbul Küçükçekmece İnönü Eskort Bayan İlanları
 

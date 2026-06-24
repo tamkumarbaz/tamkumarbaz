@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Avcılar Tahtakale Escort | İstanbul Avcılar Tahtakale Eskort Bayan İlanları
 

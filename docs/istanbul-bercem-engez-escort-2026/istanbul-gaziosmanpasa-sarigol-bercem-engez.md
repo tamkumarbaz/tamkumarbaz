@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Gaziosmanpaşa Sarıgöl eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Gaziosmanpaşa Sarıgöl Escort | Berçem Engez VIP İlanları
 

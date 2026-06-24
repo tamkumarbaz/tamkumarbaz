@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece Kanarya Escort | İstanbul Küçükçekmece Kanarya Eskort Bayan İlanları
 

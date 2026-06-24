@@ -11,7 +11,8 @@ metadata:
     ilanları. En popüler Bağcılar Merkez eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bağcılar Merkez Escort | Berçem Engez VIP İlanları
 

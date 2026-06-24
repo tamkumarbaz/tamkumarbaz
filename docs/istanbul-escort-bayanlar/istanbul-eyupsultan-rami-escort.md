@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Eyüpsultan Rami Escort | İstanbul Eyüpsultan Rami Eskort Bayan İlanları
 

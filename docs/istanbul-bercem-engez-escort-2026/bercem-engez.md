@@ -11,7 +11,8 @@ metadata:
     En popüler İstanbul eskort bayan vitrini ve bağımsız partner rehberi.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Escort | %100 Gerçek ve Kaporasız Berçem Engez VIP Hizmeti
 

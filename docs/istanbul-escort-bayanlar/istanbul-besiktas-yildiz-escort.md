@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beşiktaş Yıldız Escort | İstanbul Beşiktaş Yıldız Eskort Bayan İlanları
 

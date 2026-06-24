@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kartal Orhantepe Escort | İstanbul Kartal Orhantepe Eskort Bayan İlanları
 

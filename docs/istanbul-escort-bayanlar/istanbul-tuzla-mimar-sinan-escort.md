@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Tuzla Mimar Sinan Escort | İstanbul Tuzla Mimar Sinan Eskort Bayan İlanları
 

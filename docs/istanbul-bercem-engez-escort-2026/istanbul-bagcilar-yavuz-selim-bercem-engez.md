@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Bağcılar Yavuz Selim eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Bağcılar Yavuz Selim Escort | Berçem Engez VIP İlanları
 

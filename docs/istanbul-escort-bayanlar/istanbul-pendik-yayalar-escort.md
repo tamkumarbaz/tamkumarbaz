@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Pendik Yayalar Escort | İstanbul Pendik Yayalar Eskort Bayan İlanları
 

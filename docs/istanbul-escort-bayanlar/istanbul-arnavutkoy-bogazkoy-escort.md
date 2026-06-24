@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Arnavutköy Boğazköy Escort | İstanbul Arnavutköy Boğazköy Eskort Bayan İlanları
 

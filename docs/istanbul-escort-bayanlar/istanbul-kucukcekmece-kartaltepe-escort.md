@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece Kartaltepe Escort | İstanbul Küçükçekmece Kartaltepe Eskort Bayan İlanları
 

@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Çekmeköy Ömerli Escort | İstanbul Çekmeköy Ömerli Eskort Bayan İlanları
 

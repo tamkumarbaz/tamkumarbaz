@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Beylikdüzü Cumhuriyet Escort | İstanbul Beylikdüzü Cumhuriyet Eskort Bayan İlanları
 

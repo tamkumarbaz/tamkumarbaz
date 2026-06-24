@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şişli Nişantaşı Escort | İstanbul Şişli Nişantaşı Eskort Bayan İlanları
 

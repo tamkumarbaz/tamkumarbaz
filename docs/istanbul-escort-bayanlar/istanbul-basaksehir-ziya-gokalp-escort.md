@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Başakşehir Ziya Gökalp Escort | İstanbul Başakşehir Ziya Gökalp Eskort Bayan İlanları
 

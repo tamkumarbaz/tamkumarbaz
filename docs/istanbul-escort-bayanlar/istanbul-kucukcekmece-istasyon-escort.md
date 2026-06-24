@@ -16,7 +16,8 @@ metadata:
     rehberi.
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Küçükçekmece İstasyon Escort | İstanbul Küçükçekmece İstasyon Eskort Bayan İlanları
 

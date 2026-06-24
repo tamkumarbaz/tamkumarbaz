@@ -20,7 +20,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Şişli Kurtuluş Escort | İstanbul Şişli Kurtuluş Eskort Bayan İlanları
 

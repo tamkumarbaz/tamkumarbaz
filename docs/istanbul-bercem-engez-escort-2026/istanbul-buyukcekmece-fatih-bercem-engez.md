@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Büyükçekmece Fatih eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Büyükçekmece Fatih Escort | Berçem Engez VIP İlanları
 

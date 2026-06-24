@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Büyükçekmece Kumburgaz Escort | İstanbul Büyükçekmece Kumburgaz Eskort Bayan İlanları
 

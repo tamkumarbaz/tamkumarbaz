@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Ümraniye Şerifali eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Ümraniye Şerifali Escort | Berçem Engez VIP İlanları
 

@@ -24,7 +24,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kağıthane Yahya Kemal Escort | İstanbul Kağıthane Yahya Kemal Eskort Bayan İlanları
 

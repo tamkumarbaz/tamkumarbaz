@@ -11,7 +11,8 @@ metadata:
     model ilanları. En popüler Sancaktepe Akpınar eskort bayan vitrini.
 
 category:
-  uri: istanbul-bercem-engez-escort-2026---
+  uri: istanbul-bercem-engez-escort-2026
+---
 
 # İstanbul Sancaktepe Akpınar Escort | Berçem Engez VIP İlanları
 

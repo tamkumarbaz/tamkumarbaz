@@ -22,7 +22,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Kartal Soğanlık Escort | İstanbul Kartal Soğanlık Eskort Bayan İlanları
 

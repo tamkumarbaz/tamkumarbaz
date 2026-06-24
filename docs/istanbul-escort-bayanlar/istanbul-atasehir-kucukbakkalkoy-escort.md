@@ -25,7 +25,8 @@ privacy:
   view: public
 
 category:
-  uri: istanbul-escort-bayanlar---
+  uri: istanbul-escort-bayanlar
+---
 
 # İstanbul Ataşehir Küçükbakkalköy Escort | İstanbul Ataşehir Küçükbakkalköy Eskort Bayan İlanları
 
